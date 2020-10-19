@@ -1,0 +1,21 @@
+body {
+  color: #343a40;
+}
+
+.jumbotron {
+  background-image: url(space.jpeg);
+  background-size: cover; /* or contain depending on what you want */
+  background-position: center center;
+  text-align: center;
+  margin: auto;
+  color: white;
+}
+
+#email {
+  width: 250px;
+}
+
+#appSummary {
+  text-align: center;
+  width: 100%;
+}
